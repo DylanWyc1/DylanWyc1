@@ -1,0 +1,16 @@
+{
+    "name": "dylanwang/dylan-wyc1",
+    "description": "hello",
+    "autoload": {
+        "psr-4": {
+            "Dylanwang\\DylanWyc1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dylanwang",
+            "email": "dylan.wang@planetart.cn"
+        }
+    ],
+    "require": {}
+}
